@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.navlist>li>a {
+    @apply transition 
+            duration-300 
+            hover:shadow-md     
+            hover:shadow-secondary 
+            hover:text-gray-900
+            block 
+            p-2 
+            rounded-lg 
+            hover:bg-secondary
+}
