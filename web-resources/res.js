@@ -31,7 +31,7 @@ const webPageRes = [
         alt_text:'social Media app',
         title: 'Social Media Web App UI',
         project_description: 'This is social media Web App UI, in which user can post content and view the top trending ones, fully adaptable in all screen sizes',
-        created_date: '23/10/2024',
+        created_date: '23/7/2024',
         live_url: 'https://prashant-kumar-321.github.io/Awesome-Post/',
         github_url: 'https://github.com/Prashant-Kumar-321/Awesome-Post',
     }, 
