@@ -608,6 +608,22 @@ video {
   width: 100%;
 }
 
+.max-w-\[100px\] {
+  max-width: 100px;
+}
+
+.max-w-\[500px\] {
+  max-width: 500px;
+}
+
+.max-w-\[15\] {
+  max-width: 15;
+}
+
+.max-w-\[1550px\] {
+  max-width: 1550px;
+}
+
 .cursor-pointer {
   cursor: pointer;
 }

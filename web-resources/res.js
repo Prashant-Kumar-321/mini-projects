@@ -63,6 +63,7 @@ function getProjectCard(cardDetails){
                     </div>    
     `
     card.classList.add('project-card'); 
+    card.classList.add('max-w-[500px]'); 
     return card; 
 }
 
